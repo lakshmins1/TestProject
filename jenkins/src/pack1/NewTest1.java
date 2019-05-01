@@ -1,15 +1,16 @@
 package pack1;
 
+import org.testng.Reporter;
 import org.testng.annotations.Test;
 
 public class NewTest1 {
   @Test
   public void f() {
-	  System.out.println("hello");
+	  Reporter.log("hi",true);
   }
   @Test
   public void h()
   {
-	  System.out.println("hi");
+	  Reporter.log("kkk", true);
   }
 }
