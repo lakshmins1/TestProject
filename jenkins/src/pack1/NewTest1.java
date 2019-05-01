@@ -11,6 +11,6 @@ public class NewTest1 {
   @Test
   public void h()
   {
-	  Reporter.log("kkk", true);
+	  Reporter.log("kkkk", true);
   }
 }
