@@ -5,25 +5,25 @@
       <![CDATA[hi]]>
     </line>
     <line>
-      <![CDATA[kkk]]>
+      <![CDATA[kkkk]]>
     </line>
   </reporter-output>
-  <suite name="Default suite" duration-ms="101" started-at="2019-05-01T09:09:02Z" finished-at="2019-05-01T09:09:02Z">
+  <suite name="Default suite" duration-ms="43" started-at="2019-05-01T13:06:00Z" finished-at="2019-05-01T13:06:00Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="101" started-at="2019-05-01T09:09:02Z" finished-at="2019-05-01T09:09:02Z">
+    <test name="Default test" duration-ms="43" started-at="2019-05-01T13:06:00Z" finished-at="2019-05-01T13:06:00Z">
       <class name="pack1.NewTest1">
-        <test-method status="PASS" signature="f()[pri:0, instance:pack1.NewTest1@1810399e]" name="f" duration-ms="23" started-at="2019-05-01T09:09:02Z" finished-at="2019-05-01T09:09:02Z">
+        <test-method status="PASS" signature="f()[pri:0, instance:pack1.NewTest1@1810399e]" name="f" duration-ms="11" started-at="2019-05-01T13:06:00Z" finished-at="2019-05-01T13:06:00Z">
           <reporter-output>
             <line>
               <![CDATA[hi]]>
             </line>
           </reporter-output>
         </test-method> <!-- f -->
-        <test-method status="PASS" signature="h()[pri:0, instance:pack1.NewTest1@1810399e]" name="h" duration-ms="3" started-at="2019-05-01T09:09:02Z" finished-at="2019-05-01T09:09:02Z">
+        <test-method status="PASS" signature="h()[pri:0, instance:pack1.NewTest1@1810399e]" name="h" duration-ms="3" started-at="2019-05-01T13:06:00Z" finished-at="2019-05-01T13:06:00Z">
           <reporter-output>
             <line>
-              <![CDATA[kkk]]>
+              <![CDATA[kkkk]]>
             </line>
           </reporter-output>
         </test-method> <!-- h -->
